@@ -5,6 +5,5 @@ themes/xome/less/uikit/
 debug.log
 index.php
 upgrade/
-plugins/index.php
-plugins/hello.php
-plugins/akismet/
+plugins/
+uploads/
