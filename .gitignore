@@ -7,4 +7,5 @@ index.php
 upgrade/
 plugins/
 uploads/
-*.css
+themes/xome/styles/*/css/
+
